@@ -1,6 +1,6 @@
 Best Practices
 ==============
 
--   [​Wordpress Design, Editing, & Code Structure](Acknowledgment-of-Receipt.md)
+-   [​Wordpress Best Practices](Wordpress-Best-Practices.md)
 
  
