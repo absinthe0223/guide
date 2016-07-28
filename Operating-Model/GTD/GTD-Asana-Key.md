@@ -33,5 +33,12 @@ We will be using standardized contexts across the organization:
 * Today: This is where you'll sort tasks that you've decided in your morning sorting that you'll be doing today.  Generally keep this list short and manageable to avoid overwhelm or blockage
 * Upcoming: means that you will be getting to them soon, they are your next actions, and you'll be checking to see at the end of each day if you're going to move them to today
 * Later: means they do not need your immediate attention. You will check on these in your monthly review to see if anything needs to be moved to upcoming or today.
+* 
+
+**Items in front of a project name**
+* _ (underscore) - is a non-actionable project or a project template
+* @ (ampersand) - is a context-based, non-actionable project 
+* &ROLE - is an ongoing, role-based project. Things tha tare todos because they are in a particular role. Your ongoing work.  
+
 
 *Note: These are different from those tagged “maybe later” which means that they’re future projects.  Later just means they’re not immediate*
