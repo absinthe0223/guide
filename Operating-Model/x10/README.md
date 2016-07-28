@@ -90,4 +90,4 @@ Key questions to ask when forming a BVS
 
 **Downloads**
 
-![Download the School of Thinkin book on x10 by clicking this link](http://schoolofthinking.org/download_books/x10_reduced.pdf)
+!(Download the School of Thinkin book on x10 by clicking this link)[http://schoolofthinking.org/download_books/x10_reduced.pdf]
