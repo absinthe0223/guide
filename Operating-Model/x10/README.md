@@ -87,6 +87,7 @@ Key questions to ask when forming a BVS
 
 -   Do. What do I do RIGHT now to start the momentum rolling?
 
- 
 
- 
+**Downloads**
+
+![Download the School of Thinkin book on x10 by clicking this link](http://schoolofthinking.org/download_books/x10_reduced.pdf)
