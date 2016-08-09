@@ -2,8 +2,9 @@
 
 # Healthcare and Disability Insurance
 
-Learners Guild prioritizes health benefits, wellness and education, so it’s important that we offer our partners good medical coverage and disability insurance. Both of these benefits are managed through the Professional Employer Organization [Trinet](http://www.trinet.com). Every partner should set up their account with Trinet before their first day at Learners Guild.  Enrollment information will be sent via email to your Learners Guild email address.
+OMAlab\/Audienti prioritizes health benefits, wellness and education, so it’s important that we offer our partners good medical coverage and disability insurance. Currently with the number of employees at less than 10, OMA\/Audienti requires each employee to enroll for medical insurance individually. They will then submit the documents to accounting for reimbursement of expense. Audienti will pay up to 80% of your and your dependent’s health care coverage, up to $350\/month. To be entitled to this benefit, you must document your costs from the exchange or purchaser of your choice. In addition, should anything change regarding your benefits, in terms of a change in cost, you must notify Audienti and supply updated documentation of the revised costs.  
 
-Through Trinet, we offer various medical, dental, and vision packages for partners and their dependents. Learners Guild contributes 80% of the cost for all partner policies and 80% for dependents. All partners are eligible for coverage on the first of the month following their hire date. These policies are all managed through the Trinet HR Passport, where you can find details about the plans and their coverage.
 
-We will soon offer both short term and long term disability insurance, though we are currently waiting to get quotes back with our options for coverage.
+
+ 
+
