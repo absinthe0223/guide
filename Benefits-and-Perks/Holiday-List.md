@@ -5,18 +5,7 @@
     <td>New Year’s Day</td>
     <td>January 1</td>
   </tr>
-  <tr>
-    <td>Birthday of Martin Luther King, Jr. </td>
-    <td>Third Monday in January</td>
-  </tr>
-  <tr>
-    <td>President’s Day</td>
-    <td>February 15</td>
-  </tr>
-  <tr>
-    <td>Cesar Chavez Day</td>
-    <td>March 31</td>
-  </tr>
+  
   <tr>
     <td>Memorial Day</td>
     <td>Last Monday in May</td>
@@ -29,10 +18,7 @@
     <td>Labor Day</td>
     <td>First Monday in September</td>
   </tr>
-  <tr>
-    <td>Indigenous People’s Day</td>
-    <td>Second Monday in October</td>
-  </tr>
+  
   <tr>
     <td>Veterans Day</td>
     <td>November 11</td>
@@ -52,4 +38,4 @@
 </table>
 
 
-If a holiday falls on a Saturday, we will observe it on the Friday before. If it falls on a Sunday, it will be observed on the following Monday.
+
