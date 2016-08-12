@@ -1,6 +1,6 @@
 > “An idea that is not dangerous is unworthy of being called an idea at all.” ~ Oscar Wilde
 
-# OMALab\/Audienti Team Guide
+# OMALab/Audienti Team Guide
 
 Welcome!
 
