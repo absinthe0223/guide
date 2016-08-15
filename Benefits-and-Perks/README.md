@@ -1,7 +1,7 @@
 # Benefits & Perks
 
 * [Health Care and Disability Insurance](Healthcare-and-Disability-Insurance.md)
-* (Time-Off.md)
+* Vacation and Sick Leaves
 * [Holiday List](Holiday-List.md)
 * [Referral Bonuses](Referral-Bonuses.md)
 * [Continuing Education](Continuing-Education.md)
