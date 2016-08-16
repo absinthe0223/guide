@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [Guiding Principles](Guiding-Principles/README.md)
-   * [Org Strategy](Guiding-Principles/Strategy.md)
    * [Mission Statement](Guiding-Principles/Mission-Statement.md)
+   * [Org Strategy](Guiding-Principles/Strategy.md)
    * [Core Values](Guiding-Principles/Values.md)
    * [Tribe Agreements](Guiding-Principles/agreements.md)
    * [Conflict Resolution Process](Guiding-Principles/Conflict.md)
