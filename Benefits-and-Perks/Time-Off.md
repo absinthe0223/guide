@@ -14,12 +14,15 @@ Here at OMAlab, we recognize the need for employees to take time away from the o
 ## Our Policy
 
 We do not track or limit vacation times or sick days – take the time you need to operate at peak performance.
+
 You are welcome to shift their schedules to match your work style, as long as it does not impact the productivity of your colleagues.
 
 ## Your Responsibilities
 
 Keep your coworkers informed. Let your colleagues know at least 2 weeks ahead of schedule when you’ll be on vacation, and report in on days you need to be out unexpectedly.
+
 Be available when you’re needed. Customer calls, staff meetings and other time sensitive responsibilities must be covered regardless of your personal work schedule. If you have planned time off, make sure to coordinate with your coworkers to have coverage for any of your responsibilities during that time off.
+
 Be productive. You are engaged by OMAlab with a role that has expectations and responsibilities, and are expected to maintain them.
 Let your colleagues know when you will be taking time off for your country's schedule. For example, Independence Day, etc. at least 2 weeks in advance.
 
