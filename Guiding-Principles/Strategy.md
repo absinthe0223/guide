@@ -29,9 +29,9 @@ Our business is complex, with human, mechanical, and computer systems in simulta
 
 Competitive advantages include custom-developed tools that simplify our work and make it measurable, products that are designed for the unique needs of our customers, thoughtful customer service that is immediate and consistent, and absolute personal/corporate integrity. We use extraordinarily efficient communication tools and protocols. We constantly refine and improve all internal systems to improve ourselves every time we deliver.  
 
-To grow, we focus on two things.  First, we build "great" products.  Second, we aggressively market them.  Rapid growth ONLY comes from aggressive growth of our customer base.  And, we develop deep expertise in the areas of legal, medical, and high technology marketing. 
+To grow, we focus on two things.  First, we build "great" products.  Second, we aggressively market them.  Rapid growth comes from aggressive growth of our customer base.  And, we develop deep expertise in the areas of legal, medical, and high technology marketing. 
 
-Although we tightly control OMA operations through guiding documentation, we will modify that documentation immediately if an improvement can be made: "Our operational framework is rigid, but that framework can be modified instantly."
+"Our operational framework is rigid, but that framework can be modified instantly."
 
 We segment responsibilities into specialized "expert compartments" with appropriate cross-training among departments. We have backup personnel for all management and staff positions. 
 
