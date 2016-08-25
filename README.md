@@ -12,5 +12,5 @@ We are building a team that understands our mission and core values and will hel
 
 Each partner is responsible for reading, understanding, and complying with this guide. Our goal is to work together towards a work environment that is constructive and supports both personal and professional growth.
 
-_**This document is subject to change without prior notice. Ultimately, all payments beyond basic salaries and taxes are at the discretion of the company. It is the employees due diligence to check on this periodically for changes.**_ 
+_**This document is subject to change without prior notice. Ultimately, all payments beyond basic salaries and taxes are at the discretion of the company. It is the employees' due diligence to check on this periodically for changes.**_ 
 
