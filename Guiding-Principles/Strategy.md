@@ -5,7 +5,7 @@
 
 ## Progress competes with the status quo.
 
-The world is full of status quo. Stuff that we put up with in our lives every day. Things that we need, but are just not quite painful enough to make a change. There are businesses that have a vested interest in maintaining the status quote--these are the incumbents. 
+The world is full of status quo. Stuff that we put up with in our lives every day. Things that we need, but are just not painful enough to make a change. There are businesses that have a vested interest in maintaining the status quo - these are the incumbents. 
 
 
 ## Incumbents keep progress from happening.
