@@ -42,7 +42,7 @@
    * [Partner Proprietary Information and Inventions Agreement](Hiring-Documents/Partner-Proprietary-Information-and-Inventions-Assignment-Agreement.md)
    * [Guide to Your Equity](Hiring-Documents/Guide-to-Your-Equity.md)
 * [Benefits and Perks](Benefits-and-Perks/README.md)
-   * [Health Care and Disability Insurance](Benefits-and-Perks/Healthcare-and-Disability-Insurance.md)
+   * [Health Care](Benefits-and-Perks/Healthcare-and-Disability-Insurance.md)
    * [Vacation, Holiday and Paid Time Off (PTO) Policy](Benefits-and-Perks/Time-Off.md)
    * [Holiday List](Benefits-and-Perks/Holiday-List.md)
 * [Contributing](CONTRIBUTING.md)
