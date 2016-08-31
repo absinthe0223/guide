@@ -29,4 +29,4 @@ Let your colleagues know when you will be taking time off for your country's sch
 ## Details
 
 1. The OMAlab Open PTO plan is only available to full-time, exempt (salaried) OMAlab employees.
-2. You do not “accrue” PTO days as in traditional plans, and so will not be compensated for “unused”PTO time when you leave the company.
+2. You do not “accrue” PTO days as in traditional plans, and so will not be compensated for “unused” PTO time when you leave the company.
