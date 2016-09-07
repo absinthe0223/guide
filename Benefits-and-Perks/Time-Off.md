@@ -15,7 +15,7 @@ Here at OMAlab, we recognize the need for employees to take time away from the o
 
 We do not track or limit vacation times or sick days – take the time you need to operate at peak performance.
 
-You are welcome to shift their schedules to match your work style, as long as it does not impact the productivity of your colleagues.
+You are welcome to shift your schedules to match your work style, as long as it does not impact the productivity of your colleagues.
 
 ## Your Responsibilities
 
