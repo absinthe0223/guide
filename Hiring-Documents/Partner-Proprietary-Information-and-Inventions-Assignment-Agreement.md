@@ -1,9 +1,9 @@
 # CONFIDENTIAL INFORMATION, INVENTION ASSIGNMENT and ARBITRATION AGREEMENT
 
 
-**Learners Guild, INC.**
+**OMALAB, INC.**
 
-As a condition of becoming employed (or Employee’s employment being continued) by Learners Guild, Ltd., a Delaware corporation, or any of its current or future subsidiaries, affiliates, successors or assigns (collectively, the “Company”), and in consideration of Employee’s employment relationship with the Company and receipt of the compensation now and hereafter paid to Employee by the Company, Employee agrees to the following:
+As a condition of becoming employed (or Employee’s employment being continued) by OMALAB, Inc., a Delaware corporation, or any of its current or future subsidiaries, affiliates, successors or assigns (collectively, the “Company”), and in consideration of Employee’s employment relationship with the Company and receipt of the compensation now and hereafter paid to Employee by the Company, Employee agrees to the following:
 
 ## 1. Relationship
 
