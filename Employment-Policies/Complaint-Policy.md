@@ -1,6 +1,6 @@
 # Complaint Policy
 
-Learners Guild is committed to creating a safe work environment that is free of threats to the health, safety, and wellbeing of the people who work here. That includes (but isn’t limited to) harassment, discrimination, violation of health and safety rules, and violence.
+OMALAB is committed to creating a safe work environment that is free of threats to the health, safety, and wellbeing of the people who work here. That includes (but isn’t limited to) harassment, discrimination, violation of health and safety rules, and violence.
 
 Learners Guild has an open-door policy, so partners are encouraged to report work-related concerns. If something about your job is bothering you, or if you have a question, concern, idea, or problem related to your work, please discuss it with the founder you report to as soon as possible. If for any reason you don’t feel comfortable discussing it with them, feel free to raise the issue with any founder.
 
