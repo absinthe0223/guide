@@ -33,7 +33,6 @@
 * [Employment Policies](Employment-Policies/README.md)
    * [Equal Opportunity Employment](Employment-Policies/Equal-Opportunity-Employment.md)
    * [At-Will Employment](Employment-Policies/At-Will-Employment.md)
-   * [Salary and Equity Compensation](Employment-Policies/Salary-and-Equity-Compensation.md)
    * [Code of Conduct in the Community](Employment-Policies/Code-of-Conduct-in-the-Community.md)
    * [Complaint Policy](Employment-Policies/Complaint-Policy.md)
    * [Drug and Alcohol Policy](Employment-Policies/Drug-and-Alcohol-Policy.md)
