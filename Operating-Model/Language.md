@@ -2,17 +2,18 @@
 
 # Language
 
-Which language we use and how we use it at Learners Guild.
+Which language we use and how we use it at Audienti.
 
 ## Style Guide
 
 _Style and format instructions for official communications, e.g. capitalization and grammar._
 
-- Company name: "Learners Guild"
-  - Must be two words separated by a space.
-  - Both words must be capitalized.
-  - Do not use an apostrophe "Learners' Guild" or "Learner's Guild"
-  - When whitespace characters are unavailable, use Pascal case: "LearnersGuild"
+* Company name: "Learners Guild"
+  * Must be two words separated by a space.
+  * Both words must be capitalized.
+  * Do not use an apostrophe "Learners' Guild" or "Learner's Guild"
+  * When whitespace characters are unavailable, use Pascal case: "LearnersGuild"
+
 
 ### Tense and Voice
 
@@ -20,21 +21,19 @@ The default tense and voice for written, official copy is **present declarative*
 
 Good:
 
-  Partners touch their noses upon meeting each other.
+Partners touch their noses upon meeting each other.
 
 Avoid:
 
-  Partners should touch their noses upon meeting each other.
+Partners should touch their noses upon meeting each other.
   Partners will touch their noses upon meeting each other.
   The noses of partners are touched upon meeting each other.
 
 ## Glossary
 
-See the [Learners Guild glossary][glossary]
+See the [Learners Guild glossary](../GLOSSARY.html)
 
 ## Appropriate Communication
 
-Use [NVC][nvc] with all partners and members.
+Use [NVC](https://en.wikipedia.org/wiki/Nonviolent_Communication) with all partners and members.
 
-[glossary]: ../GLOSSARY.html
-[nvc]: https://en.wikipedia.org/wiki/Nonviolent_Communication
