@@ -42,15 +42,9 @@ We seek to avoid the Cult of Productivity anti-pattern. Too often, organizations
 
 **tldr: Work when you're most productive. Work smart on stuff that energizes you rather than depletes you. Aim for roughly 40 hours a week.**
 
-## Partner Retreats
-
-A remote, flex-time, holacracy-driven organization means we don't have an opportunity to spend "tribe time" together we nurture our professional and personal relationships as a team outside of a work context.
-
-To make room for this, partners are required to attend around five residential retreats a year. Length of the retreats will vary from 2 to 5 days.
-
 ## Scheduling and Availability
 
-We encourage partners to be available for communication \(either in person or on Slack\) as much as they wish and feel is appropriate for their current task. This can mean leaving Slack open all day, or logging in for set periods a few times per day.
+We encourage partners to be available for communication \(either in person or on Slack\). Essentially, slack is "in the office." If you're not logged in on slack, then its assumed you are not working. 
 
 Communication, as they say, is the key to every relationship. Working remotely makes synchronous communication a choice, not a requirement. While the benefits of being able to "go dark" and focus on a task without risk of distraction are great, we must also make time to be explicitly available to the team.
 
@@ -60,15 +54,13 @@ In some companies, nobody talks to each other unless they schedule a meeting fir
 
 For quick conversations, just reach out!
 
-The best place to do so is on a public Slack channel. That way, other partners can chime in to provide useful information.
+The best place to do so is on a **public** Slack channel. That way, other partners can chime in to provide useful information.
 
 If the conversation needs to be private, the next best option is to either \(a\) send them a private message in Slack or \(b\) give them a phone call.
 
 If you know that you'll need to spend some more serious time with them \(more than 10 minutes or so\), or you want to book time in the future, then it is a good idea to schedule a meeting.
 
 ### Scheduling Meetings
-
-For 1-1 meetings with other partners, we use [Calendly](https://calendly.com/). Every partner has an account, which makes it easy to book time with them.
 
 For meetings that involve more than 2 people, the best option is to create an event in your Google calendar and invite them by email. Use our group email addresses to invite lots of partners at once.
 
