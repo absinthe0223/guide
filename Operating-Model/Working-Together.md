@@ -26,7 +26,7 @@ In order to maximize working productivity and quality of life, partners can expe
 
 The amount of reimbursement may vary by city, but should align to typical membership costs for a partner's location \(use WeWork or Impact Hub's location-based rates as a guideline: [https:\/\/www.wework.com\/locations](https://www.wework.com/locations) \/ [http:\/\/www.impacthub.net\/where-are-impact-hubs\/](http://www.impacthub.net/where-are-impact-hubs/)\)
 
-## What Full-Time \/ Flex-Time Means
+## What Full-Time / Flex-Time Means
 
 > "If you want to go fast, go alone. If you want to go far, go together"
 
