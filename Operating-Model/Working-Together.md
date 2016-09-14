@@ -18,7 +18,7 @@ With the exception of partners that need to be on site to support learners, we a
 
 All weekly tactical meetings are held remotely via Google Hangouts. We agree to show up on time and ready for these meetings.
 
-These meetings will be scheduled ahead of time by the Secretary and all participants will receive a calendar invite with a link to the Zoom room.
+These meetings will be scheduled ahead of time by the Secretary and all participants will receive a calendar invite with a link to the Hangouts room.
 
 We use all-remote meetings because it is smoother to have every participant logged into a video conference than to have one group in person with the rest remote.
 
