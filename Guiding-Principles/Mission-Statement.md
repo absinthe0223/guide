@@ -4,6 +4,8 @@
 
 Our Purpose is to help our customer's grow their businesses by finding, engaging, and ultimately converting prospects into leads that become customers of their products and services. And, to help their customers find the right things for themselves that make their lives better.  Without it being about who can buy market share.
 
+To progress marketing science.
+
 ## Mission Statement
 
 The mission of OMAlab is to provide businesses with the ability to reach their prospects cost effectively with the right message.
@@ -16,15 +18,29 @@ We fulfill our purpose by helping businesses reach their ideal prospects with re
 
 We build software systems that make it easy for busineses to identifty nad reach their ideal prospects with something valuable to the target prospect.
 
-We consult, educate, and train our customers on digital best practices, helping them do digital marketing better--with more meaning to their target custoemrs, and without the waste of traditional digital advertising. 
+We consult, educate, and train our customers on digital best practices, helping them do digital marketing better--with more meaning to their target custoemrs, and without the waste of traditional digital advertising.
 
-We take responsiblity with our customers to find the right prospect, with the right message, at the right time. 
+We take responsiblity with our customers to find the right prospect, with the right message, at the right time.
 
 ## Vision
 
-It is 2020. Our software listens to to the chatter on the internet.  Automatically, it configures itself to target the right prospects with offers that match their particular interests. The system configures campaigns, tracks offers, and optimizes content to convert faster and better than humans.  
+It is 2020. Our software listens to to the chatter on the internet.  Automatically, it configures itself to target the right prospects with offers that match their particular interests. The system configures campaigns, tracks offers, and optimizes content to convert faster and better than humans.
 
-The marketing teams at our customers work on building great offers for their prospects. Our system turns it into landingp page, sets up ads and offers, does all the promotion, and drives traffic & leads to the business. 
+The marketing teams at our customers work on building great offers for their prospects. Our system turns it into landingp page, sets up ads and offers, does all the promotion, and drives traffic & leads to the business.
+
+## Who is OMA?
+
+### Progress competes with the status quo.
+
+The world is full of status quo. Stuff that we put up with in our lives every day. Things that we need, but are just not painful enough to make a change. There are businesses that have a vested interest in maintaining the status quo - these are the incumbents. We compete with this.
+
+### Incumbents keep progress from happening.
+
+It is in their interest. Incumbents have a vested interest in maintaining the status quo. They are doing well. They are maintaining or gaining. They have won. Why upset the apple cart?
+
+### We are not them. We are not the incumbent. We are the rebel, the upstart.
+
+At OMA, we are NOT the incumbent. We are not the people that have it all in our pocket, clawing to keep our stuff. We are the rebel, the upstart. We are the people that, through hard work, ingenuity, tenacity, and luck, make thing better.
 
 ## 
 
