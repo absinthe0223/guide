@@ -40,11 +40,13 @@ Managing time is a skill; especially when working remotely, it is difficult to n
 
 We seek to avoid the Cult of Productivity anti-pattern. Too often, organizations reward quantity of work and idolize members who burn the candle at both ends. This not only distracts from the more important metrics of _quality_ and _accuracy_ \(to org mission\) of the work, but is a prime recipe for burnout.
 
+Productivity means different things to different roles. For example, if your job involves dealing with outside parties, you will need to overlap your work hours to the hours of the outside world \(i.e. 9am to 5pm\).  Not doing this makes you less productive, and does NOT match the spirit of this flexibibility.
+
 **tldr: Work when you're most productive. Work smart on stuff that energizes you rather than depletes you. Aim for roughly 40 hours a week.**
 
 ## Scheduling and Availability
 
-We encourage partners to be available for communication \(either in person or on Slack\). Essentially, slack is "in the office." If you're not logged in on slack, then its assumed you are not working. 
+We encourage partners to be available for communication \(either in person or on Slack\). Essentially, slack is "in the office." If you're not logged in on slack, then its assumed you are not working.
 
 Communication, as they say, is the key to every relationship. Working remotely makes synchronous communication a choice, not a requirement. While the benefits of being able to "go dark" and focus on a task without risk of distraction are great, we must also make time to be explicitly available to the team.
 
