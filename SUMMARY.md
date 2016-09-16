@@ -27,6 +27,8 @@
         * [Sample Interview Questions](Operating-Model/Hiring-Process/Sample-Interview-Questions.md)
     * [Onboarding](Operating-Model/Onboarding.md)
     * [Sharing Files](Operating-Model/Sharing-Files.md)
+    * [By Department](Operating-Model/by-department.md)
+        * [Engineering Operations](Operating-Model/engineering-operations.md)
 * [Employment Policies](Employment-Policies/README.md)
     * [Equal Opportunity Employment](Employment-Policies/Equal-Opportunity-Employment.md)
     * [At-Will Employment](Employment-Policies/At-Will-Employment.md)

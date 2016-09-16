@@ -13,13 +13,13 @@ At the base of the Learners Guild Google Drive directory, there should be 5 dire
 1. **Guide** -- a collection of documents about how we do things at Learners Guild, which anyone can comment on and make suggestions to.
 
 2. **\[Department Name\]** -- each circle will have their own directory.
-   1. **Active Projects** -- All project folders live in this folder.
-   1. **Inactive Projects** -- Projects which aren’t currently under development.
+  1. **Active Projects** -- All project folders live in this folder.
+  1. **Inactive Projects** -- Projects which aren’t currently under development.
 
 3. **Resources** -- common resources which will be shared across projects \(design resources, press clippings, etc.\)
 
 4. **Personnel** -- every partner will have their own folder in this directory.
-   1. **\[****Partner Name\]** -- contracts, offer letters, etc. for the partner.
+  1. **\[\*\***Partner Name\]\*\* -- contracts, offer letters, etc. for the partner.
 
 
 ## Creating New Projects
