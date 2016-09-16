@@ -12,7 +12,7 @@ These operational models provide us competitive advantages:
 
 * Thoughtful customer service that is immediate and consistent, and 
 
-* Absolute personal\/corporate integrity. 
+* Absolute personal/corporate integrity. 
 
 
 To do this, we use extraordinarily efficient communication tools and protocols. We constantly refine and improve all internal systems to improve ourselves every time we deliver.
@@ -34,15 +34,9 @@ To grow, we focus on two things. First, we build "great" products. Second, we ag
 
 * [Transparency](Transparency.md)
 * [Language](Language.md)
-* [Sourcing Candidates](Hiring-Process/Sourcing-Candidates.md)
-* [Interview Process](Hiring-Process/README.md)
-  * [Sourcing Candidates](Hiring-Process/Sourcing-Candidates.md)
-  * [Legal Guide to Interviewing](Hiring-Process/Legal-Guide-to-Interviewing.md)
-  * [Guide for Pre-employment Inquiries](Hiring-Process/Guide-for-Pre-employement-Inquiries.md)
-  * [Sample Interview Questions](Hiring-Process/Sample-Interview-Questions.md)
 
 * [Budgeting](Budgeting.md)
 * [Onboarding](Onboarding.md)
 * [Sharing Files](Sharing-Files.md)
-* [Calendar](Calendar.md)
+
 
