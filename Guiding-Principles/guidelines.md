@@ -6,7 +6,6 @@ Advice from ourselves to ourselves for when we forget.
 
 You can't sustain a sprint through a marathon. Remember the tortoise. When in doubt, use [the Eisenhower box](http://jamesclear.com/eisenhower-box).
 
-
 ![](/assets/eisenhower-box.jpg)
 
 ## Hold strong opinions lightly
@@ -40,6 +39,12 @@ It's easy to feel like because we're in education we need to pretend to be purel
 * [Just F@\#\*ing Do It](http://www.bothsidesofthetable.com/2009/11/19/what-makes-an-entrepreneur-four-lettersjfdi/)
 
 > "Be bold, and mighty forces will come to your aid " ~ Johann Goethe
+
+### Identify Your 4 Percent
+
+The net of this best practice is this: The 80\/20 rule \(Pareto's principal\) applies to your work \(80% of the results come from 20% of the work\). But, you can Pareto Pareto's principal, and that states that 64% of the benefit comes from just 4% of the work.
+
+The key idea here is that its important to identify your 4%. With a good analysis of what you think your 4% is, you can spend much more time on things that will produce results. This idea fundamentally is the idea of "LEVERAGE". If you do work, and it moves us sideways, you are trading dollars for effort. It has no leverage. If you are doing something, and can't tie it directly to the company's focus now, consider whether you should be doing it at all.
 
 ## Play harmonies, not solos
 
