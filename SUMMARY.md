@@ -37,6 +37,7 @@
     * [Drug and Alcohol Policy](Employment-Policies/Drug-and-Alcohol-Policy.md)
     * [Vacation, Holiday, and Paid Time Off \(PTO\) Policy](Employment-Policies/vacation-holiday-and-paid-time-off-pto-policy.md)
     * [Supplemental Policies for Remote Employees and Contractors](Employment-Policies/supplemental-policies-for-remote-employees-and-contractors.md)
+    * [Supplemental Policy for Bonus, Commissions, and other Performance-based Payments](Employment-Policies/supplemental-policy-for-bonus-commissions-and-other-performance-based-payments.md)
 * [Hiring Documents](Hiring-Documents/README.md)
     * [Acknowledgement of Receipt](Hiring-Documents/Acknowledgment-of-Receipt.md)
     * [Partner Proprietary Information and Inventions Agreement](Hiring-Documents/Partner-Proprietary-Information-and-Inventions-Assignment-Agreement.md)
