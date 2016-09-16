@@ -8,12 +8,7 @@ Which language we use and how we use it at Audienti.
 
 _Style and format instructions for official communications, e.g. capitalization and grammar._
 
-* Company name: "Learners Guild"
-  * Must be two words separated by a space.
-  * Both words must be capitalized.
-  * Do not use an apostrophe "Learners' Guild" or "Learner's Guild"
-  * When whitespace characters are unavailable, use Pascal case: "LearnersGuild"
-
+* Company name: "OMAlab, Inc."
 
 ### Tense and Voice
 
@@ -31,7 +26,7 @@ Partners should touch their noses upon meeting each other.
 
 ## Glossary
 
-See the [Learners Guild glossary](../GLOSSARY.html)
+See the OMALab [glossary](../GLOSSARY.html)
 
 ## Appropriate Communication
 
