@@ -1,10 +1,10 @@
 # Organization and Governance
 
-The governance model of Learners Guild is based on [Holacracy][holacracy]. The operational model is a hybrid system built on Holacracy's tactical methodology, David Allen's [Getting Things Done](http://gettingthingsdone.com/), and using our own rules and agreements to make this come together in Asana.  This section will provide you with all the information you need to navigate these systems.
+The governance model of OMALAB is based on [Holacracy][holacracy]. The operational model is a hybrid system built on Holacracy's tactical methodology, David Allen's [Getting Things Done](http://gettingthingsdone.com/), and using our own rules and agreements to make this come together in Asana.  This section will provide you with all the information you need to navigate these systems.
 
-Ultimately however it is the purpose of the [Holacracy Coach](https://glassfrog.holacracy.org/roles/4477013) and the [GTD Coach](https://glassfrog.holacracy.org/roles/4477015) roles to support everyone at LG to get the most out of this system and to have it run smoothly.
+Ultimately however it is the purpose of the [Holacracy Coach](https://glassfrog.holacracy.org/roles/4477013) and the [GTD Coach](https://glassfrog.holacracy.org/roles/4477015) roles to support everyone at OMALAB to get the most out of this system and to have it run smoothly.
 
-There is a cost to learning these tools and methodologies but you should expect them to eventually and ultimately disappear into the background and become of great support to your work at LG and beyond.  If this does not become the case eventually it is up to you to reach out for support.
+There is a cost to learning these tools and methodologies but you should expect them to eventually and ultimately disappear into the background and become of great support to your work at OMALAB and beyond.  If this does not become the case eventually it is up to you to reach out for support.
 
 ## Governance
 
@@ -71,5 +71,4 @@ Holacracy is a social technology, an organizational design or operating system f
 * Some writing on how Medium is using it: [Here](http://firstround.com/article/How-Medium-is-building-a-new-kind-of-company-with-no-managers#),[here](https://medium.com/about-holacracy),[here](https://medium.com/about-holacracy/93446941a52a),[here](https://medium.com/about-holacracy/fdf89d9007f7), and [here](https://medium.com/about-holacracy/36e599a8b6c5)
 * This is a great [FAQ](http://clarifyingquestions.wordpress.com/) by the founder to help answer some deeper questions.
 
-## More resources
-Check out the [LG Operational Model Google Drive](https://drive.google.com/open?id=0B603F2WUOtLJang2UmVWTmZUVjA) for more resources
+
