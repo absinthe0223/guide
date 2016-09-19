@@ -21,9 +21,9 @@ If a partner does not comply with this policy, we can delay reimbursement or rej
 
 Fraud, Bribery, Corruption
 
-We have a zero toleranace policy for bribery--in compliance iwht relevant anti-bribery lawas in all the regions we operate. Offering or accepting a bribe is simply not acceptable.  
+We have a zero tolerance policy for bribery--in compliance with relevant anti-bribery laws in all the regions we operate. Offering or accepting a bribe is simply not acceptable.  
 
-Fradulent expenses or charges identiifed will result in immedate termination. 
+Fraudulent expenses or charges identifed will result in immediate termination. 
 
 
 
