@@ -42,13 +42,13 @@ It's easy to feel like because we're in education we need to pretend to be purel
 
 ### Identify Your 4 Percent
 
-The net of this best practice is this: The 80\/20 rule \(Pareto's principal\) applies to your work \(80% of the results come from 20% of the work\). But, you can Pareto Pareto's principal, and that states that 64% of the benefit comes from just 4% of the work.
+The net of this best practice is this: The 80/20 rule (Pareto's principle) applies to your work (80% of the results come from 20% of the work). But, you can Pareto Pareto's principle, and that states that 64% of the benefit comes from just 4% of the work.
 
 The key idea here is that its important to identify your 4%. With a good analysis of what you think your 4% is, you can spend much more time on things that will produce results. This idea fundamentally is the idea of "LEVERAGE". If you do work, and it moves us sideways, you are trading dollars for effort. It has no leverage. If you are doing something, and can't tie it directly to the company's focus now, consider whether you should be doing it at all.
 
 ## Play harmonies, not solos
 
-Working with a team involves an implicit \(and hopefully, explicit\) commitment to each other as much as to the work at hand. Collaboration means that we prioritize collective synchrony over individual achievement. Don't abandon your team.
+Working with a team involves an implicit (and hopefully, explicit) commitment to each other as much as to the work at hand. Collaboration means that we prioritize collective synchrony over individual achievement. Don't abandon your team.
 
 > "If you want to go fast, go alone. If you want to go far, go together" ~African Proverb
 
