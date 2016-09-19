@@ -68,7 +68,7 @@ Love comes bearing many gifts: forgiveness, gratitude, enjoyment and ease. Let's
 
 ## Serve with humility
 
-Learners Guild will not single handedly save the world. We are ultimately, not that important. Act accordingly.
+OMALAB will not single-handedly save the world. We are ultimately, not that important. Act accordingly.
 
 > "We can do no great things, only small things with great love" ~ Mother Teresa
 
