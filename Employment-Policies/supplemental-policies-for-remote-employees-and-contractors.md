@@ -60,43 +60,43 @@ If these problems regularly occur, is is grounds for immediate termination.
 
 **Everyone gets sick. But, sickness is not allowed as an excuse. **
 
-As a remote person\/contractor, sometimes you get sick. That happens, and we do NOT judge you on this. 
+As a remote person/contractor, sometimes you get sick. That happens, and we do NOT judge you on this. 
 
 However, if you have a scheduled deliverable, it is CRITICAL that you reach your manager letting them know that you are sick and will not make your deliverable, and to provide a revised estimate. Letting your manager know AFTER you miss the deliverable that you were sick is grounds of immediate termination. 
 
-In addition, regular absenses, especially around delivery times, is grounds for immediate termination. This is not an evaluation of whether you are truthful. We are required to get things done, and keep our manager informed. If your regular absenses impact that, then there is little else we can do. 
+In addition, regular absences, especially around delivery times, is grounds for immediate termination. This is not an evaluation of whether you are truthful. We are required to get things done, and keep our manager informed. If your regular absences impact that, then there is little else we can do. 
 
 The same rule applies to "medical emergencies", family situations, and other things that cause people to be absent. 
 
-**You cannot start without signing an NDA, Non-compete, Non-soliciation, and Intellection Property Agreements. **
+**You cannot start without signing an NDA, Non-compete, Non-solicitation, and Intellectual Property Agreements. **
 
-Before starting work, you will be sent materials that you are required to exeucte. You will not be paid without these documents being fully executed and received by the company. It is YOUR responsiblity to ensure you have completed all these documents. 
+Before starting work, you will be sent materials that you are required to execute. You will not be paid without these documents being fully executed and received by the company. It is YOUR responsibility to ensure you have completed all these documents. 
 
 **If you are working on UpWork or similar service, you are expected to bill your hours live \(no manual work\). **
 
-We require all UpWork-based partners to use screen recording to record their screenshots. This is to ensure htat, as a remote, on demand contractor, we have a record\/log of your actual time being billed to us. 
+We require all UpWork-based partners to use screen recording to record their screenshots. This is to ensure that, as a remote, on demand contractor, we have a record/log of your actual time being billed to us. 
 
 The logic for this is simple: if you give us manual time, then we have to go back through all your work, and compare your billing to your deliverables, and try to estimate whether we have gotten what we are being asked to pay for. This is a lot of unnecessary work we have to do \(which costs money\), so you can have the pleasure of not having to track your screens. This is why we do NOT support this initially. 
 
-Once we establish trust, we can enable  SOME manual billing. But, you must get approavl for manual time before starting to log manual time. Ify ou "have a problem" and "can't bill because of a problem" and need manual time, that will not be acceptable without showing us the logs of your request for help from UpWork technical support, and UpWork or similar's technical support stating that they cannot fix the problem.
+Once we establish trust, we can enable  SOME manual billing. But, you must get approval for manual time before starting to log manual time. If you "have a problem" and "can't bill because of a problem" and need manual time, that will not be acceptable without showing us the logs of your request for help from UpWork technical support, and UpWork or similar's technical support stating that they cannot fix the problem.
 
 If we transition away from UpWork to a direct relatioship, we will wire transfer funds to you. It's expected that we will remove any wire transfer fees from the amount we pay you, and you will continue to get paid the same amount. This is in your benefits, as there is a fee of up to 10% we are paying UpWork. The wire transfer fee will likely be less than this. 
 
-Undersatnd that we will require to a modification to our schedule \(we won't pay you weekly\), to confirm with the payment schedules of other payments.  
+Understand that we will require to a modification to our schedule \(we won't pay you weekly\), to confirm with the payment schedules of other payments.  
 
 It is at the company's discretion when any of these changes to your billing relationship happen.  
 
 **If you billing is found to be in error \(times worked versus billed hours\), you will be terminated. **
 
-It's unfortuatnely all too common that remote contractors fake\/load hours. If we EVER find you have done this, you will be immedaitely terminated. In additoin, to the fullest extent of the power we have, we will ensure that any thing party service we use, such as UpWork, is aware of the siatuation.  
+It's unfortunately all too common that remote contractors fake load hours. If we EVER find you have done this, you will be immediately terminated. In addition, to the fullest extent of the power we have, we will ensure that any thing party service we use, such as UpWork, is aware of the situation.  
 
 If you need more work, ask for it. Don't fake your time. 
 
-**These rules, and all decisions related to your employment and compensation are ultimately at teh discretion of your manager and the leadership of the company. **
+**These rules, and all decisions related to your employment and compensation are ultimately at the discretion of your manager and the leadership of the company. **
 
-The company has final decision-making authority on all matters. As a partner, and as a condition of your payment, you agree to this term.  While we will always attempt to be fair and reasonable, we have ot protect the interests of the compay first and foremost over your personal interests. 
+The company has final decision-making authority on all matters. As a partner, and as a condition of your payment, you agree to this term.  While we will always attempt to be fair and reasonable, we have to protect the interests of the company first and foremost over your personal interests. 
 
 **You agree to a third party arbitrator of the company's choosing to resolve matters that cannot be amicably resolved. **
 
-As a conditon of your payment, you agree that should a dispute arise that requires a third party to resolve, the company may choose a neutral arbitrator to settle the dispute. Should the arbitrator rule in favor of the company, you agree to pay the for the arbitrator's time and expense. 
+As a condition of your payment, you agree that should a dispute arise that requires a third party to resolve, the company may choose a neutral arbitrator to settle the dispute. Should the arbitrator rule in favor of the company, you agree to pay the for the arbitrator's time and expense. 
 
