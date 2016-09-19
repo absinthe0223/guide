@@ -2,15 +2,15 @@
 
 # Onboarding
 
-This document is about the general priorities and policies for how we as a company bring new partners onto the team. As a new person on the team, if you have questions about starting at Learners Guild, check out [Your First Day at Learners Guild](../Onboarding-Documents/Welcome-to-Learners-Guild.md).
+This document is about the general priorities and policies for how we as a company bring new partners onto the team. As a new person on the team, if you have questions about starting at OMALAB, xxxxx
 
 We may also create specific onboarding recommendations for different roles in the future.
 
 # Before Arrival
 
-After a candidate accepts an offer to join Learners Guild, there are a few things that we can get out of the way before they show up.
+After a candidate accepts an offer to join OMALAB, there are a few things that we can get out of the way before they show up.
 
-1. Complete employment paperwork -- these should end up in their personnel folder \(see [Sharing Files](Sharing-Files.md)\)
+1. Complete employment paperwork -- these should end up in their personnel folder 
 
   * Signed \[Offer Letter\]\[offer-letter\]
   * Signed \[Proprietary Information and Inventions Assignment Agreement\]\[prop-info-agreement\]
@@ -37,7 +37,7 @@ After a candidate accepts an offer to join Learners Guild, there are a few thing
 
 # The First Day
 
-A new partner’s first day is critical to making them feel welcome at Learners Guild. The goals of the first day are to help them get set up, situated, and comfortable with the team. It is the responsibility of the person who led their hiring process to make sure that happens.
+A new partner’s first day is critical to making them feel welcome at OMALAB. The goals of the first day are to help them get set up, situated, and comfortable with the team. It is the responsibility of the person who led their hiring process to make sure that happens.
 
 Some guidelines for the first day:
 
@@ -58,12 +58,11 @@ Some guidelines for the first day:
 
 # The First Week, Month, Beyond
 
-The first week of working at Learners Guild should be focused on learning -- learning the company norms, learning how to work with everyone, learning the tools we use, etc. New partners should be contributing a little bit all week, but the expectation is that they ask questions and get set up, not that they immediately assume leadership.
+The first week of working at OMALAB should be focused on learning -- learning the company norms, learning how to work with everyone, learning the tools we use, etc. New partners should be contributing a little bit all week, but the expectation is that they ask questions and get set up, not that they immediately assume leadership.
 
 After a week, the new partner should have their first one-on-one meeting. This meeting should go over all of the normal things that we cover in [One on Ones](https://docs.google.com/open?authuser=b%40getclef.com&id=1yVp1XzfjmHkwf_vQf-COInCHj2xd3b7ne_77YSleRgc), but should also probe about any gaps in their knowledge.
 
 From there, the process should merge towards the normal process. It’s important to set reasonable expectations and be very supportive for as long as it takes for the partner to feel comfortable at Learners Guild \(this might be a week for some and a month for others\).
 
-\[offer-letter\]: TODO make offer letter \(clef version: [https:\/\/docs.google.com\/document\/d\/1WUiY-mzKHJblc6MatcyZcqWqdnhe\_D4fl0RvFXR7dz0](https://docs.google.com/document/d/1WUiY-mzKHJblc6MatcyZcqWqdnhe_D4fl0RvFXR7dz0)\)
-\[prop-info-agreement\]: TODO do we need this? \(clef version:  [https:\/\/docs.google.com\/document\/d\/10RI3ne-OLjU8cwuwVuYA3H\_pQdEW1pioz1zIAJ3nOLY](https://docs.google.com/document/d/10RI3ne-OLjU8cwuwVuYA3H_pQdEW1pioz1zIAJ3nOLY)\)
+
 
