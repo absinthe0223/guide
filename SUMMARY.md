@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [Guiding Principles](Guiding-Principles/README.md)
    * [Mission Statement](Guiding-Principles/Mission-Statement.md)
-   * [Tribe Agreements](Guiding-Principles/agreements.md)
    * [Conflict Resolution Process](Guiding-Principles/Conflict.md)
    * [General Guidelines](Guiding-Principles/guidelines.md)
 * [Operating Model](Operating-Model/README.md)
