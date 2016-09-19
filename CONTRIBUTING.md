@@ -1,6 +1,6 @@
 # Contributing and Editing the Guide
 
-Any partner within Learners Guild can contribute to the guide. This document explains how.
+Any partner within OMALAB can contribute to the guide. This document explains how.
 
 Depending on the kind of edit, there are different approaches.
 
@@ -16,7 +16,7 @@ The Guide is hosted as a [GitHub repository][gh-repo] at https://github.com/Lear
 
 The content stored in the master branch of the guide repo (https://github.com/LearnersGuild/guide/tree/master) is what the GitBook site pulls from. Any changes made to files and folders in this branch will be reflected in the GitBook site.
 
-**To make edits, you will need a GitBook account and access to the [Guide book][gb-guide] on the LearnersGuild GitBook organization.**
+**To make edits, you will need a GitBook account and access to the [Guide book][gb-guide] on the OMALAB GitBook organization.**
 
 In order to work effectively with the Guide, it is helpful to have a baseline understanding of GitBook and Markdown (the text format used to write all content in the Guide).
 
