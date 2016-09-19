@@ -6,9 +6,9 @@ How, when, and where we work together.
 
 We believe in bringing our whole selves to our work practice. Our personal and inner lives will affect our work, and vice versa. In order for us to work well together, it helps to know how we're doing beyond just project updates.
 
-In this spirit, we do a daily checkin in the \#daily-checkin channel on Slack. For each of the three categories _personal_, _work_, and _inner_, we give a 1-5 rating \(1 = terrible, 5 = awesome\) and some brief words about how we're feeling in each of those areas.
+In this spirit, we do a daily check-in in the #daily-checkin channel on Slack. For each of the three categories _personal_, _work_, and _inner_, we give a 1-5 rating (1 = terrible, 5 = awesome) and some brief words about how we're feeling in each of those areas.
 
-Anything safe for work can be shared, with the understanding that anything shared during checkins is strictly confidential unless explicitly stated otherwise.
+Anything safe for work can be shared, with the understanding that anything shared during check-ins is strictly confidential unless explicitly stated otherwise.
 
 We also do spoken check-ins at the start of every tactical meeting.
 
@@ -35,15 +35,15 @@ We agree to work as much as we can and feel inspired to do, but not so much that
 
 Managing time is a skill; especially when working remotely, it is difficult to not work too much or too little. We have to hold ourselves and each other accountable to find our balance.
 
-We seek to avoid the Cult of Productivity anti-pattern. Too often, organizations reward quantity of work and idolize members who burn the candle at both ends. This not only distracts from the more important metrics of _quality_ and _accuracy_ \(to org mission\) of the work, but is a prime recipe for burnout.
+We seek to avoid the Cult of Productivity anti-pattern. Too often, organizations reward quantity of work and idolize members who burn the candle at both ends. This not only distracts from the more important metrics of _quality_ and _accuracy_ (to org mission) of the work, but is a prime recipe for burnout.
 
-Productivity means different things to different roles. For example, if your job involves dealing with outside parties, you will need to overlap your work hours to the hours of the outside world \(i.e. 9am to 5pm\).  Not doing this makes you less productive, and does NOT match the spirit of this flexibibility.
+Productivity means different things to different roles. For example, if your job involves dealing with outside parties, you will need to overlap your work hours to the hours of the outside world (i.e. 9am to 5pm).  Not doing this makes you less productive, and does NOT match the spirit of this flexibility.
 
 **tldr: Work when you're most productive. Work smart on stuff that energizes you rather than depletes you. Aim for roughly 35 hours a week.**
 
 ## Scheduling and Availability
 
-We encourage partners to be available for communication \(either in person or on Slack\). Essentially, slack is "in the office." If you're not logged in on slack, then its assumed you are not working.
+We encourage partners to be available for communication (either in person or on Slack). Essentially, slack is "in the office." If you're not logged in on slack, then its assumed you are not working.
 
 Communication, as they say, is the key to every relationship. Working remotely makes synchronous communication a choice, not a requirement. While the benefits of being able to "go dark" and focus on a task without risk of distraction are great, we must also make time to be explicitly available to the team.
 
@@ -55,9 +55,9 @@ For quick conversations, just reach out!
 
 The best place to do so is on a **public** Slack channel. That way, other partners can chime in to provide useful information.
 
-If the conversation needs to be private, the next best option is to either \(a\) send them a private message in Slack or \(b\) give them a phone call.
+If the conversation needs to be private, the next best option is to either (a) send them a private message in Slack or (b) give them a phone call.
 
-If you know that you'll need to spend some more serious time with them \(more than 10 minutes or so\), or you want to book time in the future, then it is a good idea to schedule a meeting.
+If you know that you'll need to spend some more serious time with them (more than 10 minutes or so), or you want to book time in the future, then it is a good idea to schedule a meeting.
 
 ### Scheduling Meetings
 
@@ -67,7 +67,7 @@ For meetings that involve more than 2 people, the best option is to create an ev
 
 All partners in OMALAB commit to practicing [Getting Things Done](GTD/README.md). The [Holacracy constitution](https://github.com/LearnersGuild/Holacracy-Constitution) requires that partners be responsible for tracking their next-actions and projects in a database that is constantly updated and reviewed.
 
-Getting Things Done \(GTD\) is a well known and effective personal productivity system that formalizes this process. We all use Asana for GTD, and we even have a bot that automates tedious tasks and helps us use it better!
+Getting Things Done (GTD) is a well known and effective personal productivity system that formalizes this process. We all use Asana for GTD, and we even have a bot that automates tedious tasks and helps us use it better!
 
 Check out the [Getting Things Done](GTD/README.md) section of the Guide for more information.
 
