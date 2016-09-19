@@ -62,7 +62,7 @@ The first week of working at OMALAB should be focused on learning -- learning th
 
 After a week, the new partner should have their first one-on-one meeting. This meeting should go over all of the normal things that we cover in [One on Ones](https://docs.google.com/open?authuser=b%40getclef.com&id=1yVp1XzfjmHkwf_vQf-COInCHj2xd3b7ne_77YSleRgc), but should also probe about any gaps in their knowledge.
 
-From there, the process should merge towards the normal process. It’s important to set reasonable expectations and be very supportive for as long as it takes for the partner to feel comfortable at Learners Guild \(this might be a week for some and a month for others\).
+From there, the process should merge towards the normal process. It’s important to set reasonable expectations and be very supportive for as long as it takes for the partner to feel comfortable at OMALAB \(this might be a week for some and a month for others\).
 
 
 
