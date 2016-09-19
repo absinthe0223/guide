@@ -14,7 +14,7 @@ Transparency may seem like a passive process, like "don’t hide anything," but 
 
 ## Transparent, Private, and Open
 
-Any information at OMAlab falls falls into one, and only one, of three categories: open, private, and transparent. These terms are defined succinctly in the [Glossary](../GLOSSARY.html); read those definitions first if you are unsure of their specific, contextual meaning.
+Any information at OMAlab falls into one, and only one, of three categories: open, private, and transparent. These terms are defined succinctly in the [Glossary](../GLOSSARY.html); read those definitions first if you are unsure of their specific, contextual meaning.
 
 At OMAlab we strive to make the default state of all information transparent, i.e. visible to all partners. When deciding how to share information, all partners should choose to make it transparent _unless they have a really good reason not to_.
 
@@ -95,7 +95,7 @@ Partners are, of course, encouraged to share as much of their _received_ feedbac
 
 ### When and   information should be open
 
-As we grow, OMSlab will likely open up more and more information to the outside world.
+As we grow, OMAlab will likely open up more and more information to the outside world.
 
 For the time being, however, we are more or less in "stealth" mode: we are invisible, and we share only select information with a select few people not-partners.
 
