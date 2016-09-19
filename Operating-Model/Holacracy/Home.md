@@ -17,7 +17,7 @@ Each circle shall delegate its governance authority to the role of @Governor.
 
 The @Governor of each circle shall have exclusive authority of passing governance in their circle.
 
-For a circle to evolve to distributed governance.  The @Governer, @Lead Link of the circle, and @Holacracy Engagement Lead need to all agree.
+For a circle to evolve to distributed governance.  The @Governor, @Lead Link of the circle, and @Holacracy Engagement Lead need to all agree.
 
 For a circle to turn back towards localized governance, the @Lead Link of the circle and @Holacracy Engagement Lead need to agree.
 
@@ -59,7 +59,7 @@ We're using this hybrid for many reasons, here are some of the main ones:
 - Those who are heard in meetings are those who spoke the loudest and/or quickest. And quieter, slower thinkers are not heard from nearly as much.
 - Partners feel disempowered by the power structure.  
 - Partners don’t feel enough autonomy, and needed to check in with a very large number of people to “cover their butt” and make sure its ok to do what they want to do.
-- Ideas and movement are bottlenecked by the managers, because most change and action have to go through them.
+- Ideas and movement are bottle-necked by the managers, because most change and action have to go through them.
 - Work is overwhelming, and stress builds quickly as problems become more complicated
 - Our minds spend a lot of RAM on keeping up with our work and don't have enough space for creativity or our own personal well-being
 
