@@ -33,11 +33,11 @@ If you need coaching or support before clearing with someone, or before\/during 
 
 ## Third Party
 
-Sometimes, a partner can sense a conflict between two people \(or is caught in a triangulation between them\). If that's the case, they can ask one \(or both\) parties to the perceived conflict wether or not there actually is one \(reality check\), and make a request that they address it and report back.
+Sometimes, a partner can sense a conflict between two people \(or is caught in a triangulation between them\). If that's the case, they can ask one \(or both\) parties to the perceived conflict whether or not there actually is one \(reality check\), and make a request that they address it and report back.
 
 ## Partners v.s. Non-Partners
 
-Our conflict resolution process is an agreement made by and between partners. It's important to remember and acknowledge that no other stakeholders are bound to the this process, or have agreed to it. When resolving conflicts with non partners, do your best to adhere to the spirit of our agreements within the confines of what's efficient\/appropriate to the situation.
+Our conflict resolution process is an agreement made by and between partners. It's important to remember and acknowledge that no other stakeholders are bound to the this process, or have agreed to it. When resolving conflicts with non partners, do your best to adhere to the spirit of our agreements within the confines of what's efficient/appropriate to the situation.
 
 ---
 
