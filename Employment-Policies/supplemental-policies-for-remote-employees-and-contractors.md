@@ -4,17 +4,17 @@ For contractors and remote employees, there are some additional policies that ar
 
 **You are budgeted at 7 hours per day of productive work. **
 
-This means that you are expected to work that amount of time regularly and consistently, adn at peak performance. Sometimes we might have ot work more, but the plan is for you to work 7 hoiurs per day. This is, of course, unless your contract is for less working hours\). 
+This means that you are expected to work that amount of time regularly and consistently, and at peak performance. Sometimes we might have to work more, but the plan is for you to work 7 hours per day. This is, of course, unless your contract is for less working hours\). 
 
 If you are billing more than 30 hours per week, you are expected to be a FULL time person. This means you don't work other jobs outside of OMAlab.  
 
-We manage you to 7 hours per day of productive work, becuase simply put it is not possible for a person to work 70 hours a week regulalry nad not burn out. So, given that we are expecting you to have a reasonable work schedule, this does NOT give you the right to add anoother 25 hours\/week job on top of your work. It is expected you will rest and renew on other times\/days. 
+We manage you to 7 hours per day of productive work, because simply put it is not possible for a person to work 70 hours a week regularly and not burn out. So, given that we are expecting you to have a reasonable work schedule, this does NOT give you the right to add another 25 hours/week job on top of your work. It is expected you will rest and renew on other times\/days. 
 
-To be clear, if we find you have abused this policy by taking other signficiant work, you will be immediately terminated, and your final invoice will not be paid. 
+To be clear, if we find you have abused this policy by taking other signficant work, you will be immediately terminated, and your final invoice will not be paid. 
 
 **You must COMPLETE work to get your full compensation.**
 
-You are paid to do work regularly and recurring. But, unless there is an exception, there will also be a bonus component to your compensation when you get work done requested of you. This is to ensure you undersatnd that while we value you "working", we value more you COMPLETING more than working. This will be 10-50% of your total compensation. So, get things done. 
+You are paid to do work regularly and recurring. But, unless there is an exception, there will also be a bonus component to your compensation when you get work done requested of you. This is to ensure you understand that while we value you "working", we value more you COMPLETING more than working. This will be 10-50% of your total compensation. So, get things done. 
 
 If you do not have this bonus component, and you choose to leave the company with unfinished work, and you do so without a graceful transition period as defined in your offer letter, expect that your last paycheck will be garnished to reflect the uncompleted work and lack of transition. 
 
@@ -22,41 +22,41 @@ If you do not have this bonus component, and you choose to leave the company wit
 
 You are not to "run up" your hours working on items that, while need to be done, haven't been expressly assigned to you. It's a common problem that we have, where a contractor ore hourly employee will run up their hours, continuing to charge for work that is "filler" work, and doing it slowly. This is totally unacceptable. 
 
-It is YOUR job to ensure that youre manager understands what you are doing, when you will be done, and when you will be free to work on something else.  Having a next job assigned ot you is NOT an excuse.  
+It is YOUR job to ensure that your manager understands what you are doing, when you will be done, and when you will be free to work on something else.  Having a next job assigned to you is NOT an excuse.  
 
 You will only be paid the hours you bill on items expressly assigned to you. 
 
 **If you are hourly, you must supply detailed time\/task logs for every hour billed.  **
 
-If you are paid on a monthly contract at a fixed rate, you MUST supply daily detailed time logs tracking the time of your actions and activities against assigned tasks. These items should account for at least 80% of your total billed time. If they are less than a 80% threshhold, we resever the right to adjust ypour invoice to the actual time worked on tickets and tasks.  
+If you are paid on a monthly contract at a fixed rate, you MUST supply daily detailed time logs tracking the time of your actions and activities against assigned tasks. These items should account for at least 80% of your total billed time. If they are less than a 80% threshold, we reserve the right to adjust your invoice to the actual time worked on tickets and tasks.  
 
-In both cases, it is not acceptable to submit daily time tracking for billing that has an undescriptive or generic genericiotn of your activities. When this occurs, we cannot correlate your work to an actual task withou signficiant effort on our part, it will not not be recognnized as valid hours for hte purposes of billing and payments. 
+In both cases, it is not acceptable to submit daily time tracking for billing that has an undescriptive or generic generation of your activities. When this occurs, we cannot correlate your work to an actual task without significant effort on our part, it will not not be recognized as valid hours for the purposes of billing and payments. 
 
-Ultimately, it is your responsibility to ensure your time tracking and billing shows the specific action and ctivities wyou worked on, submitted in a verifiyable way. Without this, we cannot pay you for this owrk. 
+Ultimately, it is your responsibility to ensure your time tracking and billing shows the specific action and activities you worked on, submitted in a verifiable way. Without this, we cannot pay you for this work. 
 
-And, failure to comply tiwth this policy is grounds for termination.  
+And, failure to comply with this policy is grounds for termination.  
 
 **You must give your manager a status at least once per day. **
 
-You will update your manager daily on your working activities and how much time they took, estimated ocmpletion, and what you are scheduled to work on next. This can be delivered via email or Slack communication. 
+You will update your manager daily on your working activities and how much time they took, estimated completion, and what you are scheduled to work on next. This can be delivered via email or Slack communication. 
 
 **You will check in your work or code daily into our systems. **
 
-At the end of hte day, you will check in your work. This means that you sill sync it to one of our repos \(as a developer\), or copy your working drafts up to your Google Drive or Dropbox. If we find you are regularly NOT copying your work to our servers, this is grounds for immediate temrination, as it is a best practice. 
+At the end of the day, you will check in your work. This means that you sill sync it to one of our repos \(as a developer\), or copy your working drafts up to your Google Drive or Dropbox. If we find you are regularly NOT copying your work to our servers, this is grounds for immediate termination, as it is a best practice. 
 
 **Your working hours will overlap substantially with the USA Eastern Time Zone working time. **
 
-If you are a remote employee or contractor, and you are working wtih USA East Coast personnel, it is expected you will substantially overlap your working hours with the USA Eastern Time zone. It's understood you might be up early, or leave early, but you must overlap at least four \(4\) hours with the USA. 
+If you are a remote employee or contractor, and you are working with USA East Coast personnel, it is expected you will substantially overlap your working hours with the USA Eastern Time zone. It's understood you might be up early, or leave early, but you must overlap at least four \(4\) hours with the USA. 
 
-In addition, no accomodation will be made for your working schedule. For example, if we need to have a client meeting that you will be involved with, and the clinet chooses to schedule teh meeting at 4pm, it is expected that you will accomdate the schedule without complaint and attend.  
+In addition, no accommodation will be made for your working schedule. For example, if we need to have a client meeting that you will be involved with, and the client chooses to schedule the meeting at 4pm, it is expected that you will accommodate the schedule without complaint and attend.  
 
-**You are reponsible for keeping your computer and internet up to the tasks.**
+**You are responsible for keeping your computer and internet up to the tasks.**
 
-As a remote contractor or employee, you are responsible for your own equipment and ocmmuniation services. It is expectd that you will ekeep these items operational so that they do not impact work and communications we are trying to have.
+As a remote contractor or employee, you are responsible for your own equipment and communication services. It is expected that you will keep these items operational so that they do not impact work and communications we are trying to have.
 
-Our company regularly uses Google Hangouts for video to have meetings, and create a seanse of team even though we are remote. OIf your system cannot support this, and we cannot hear or see you, you can't communicate reliably, or your setup always breaks and cuases problems, then this is a signficaitn detriment to the company overall.  
+Our company regularly uses Google Hangouts for video to have meetings, and create a sense of team even though we are remote. If your system cannot support this, and we cannot hear or see you, you can't communicate reliably, or your setup always breaks and causes problems, then this is a significant detriment to the company overall.  
 
-If these problems regularly occur, is is grounds for immedate temrination. 
+If these problems regularly occur, is is grounds for immediate termination. 
 
 **Everyone gets sick. But, sickness is not allowed as an excuse. **
 
