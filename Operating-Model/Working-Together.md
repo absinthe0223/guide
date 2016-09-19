@@ -14,7 +14,7 @@ We also do spoken check-ins at the start of every tactical meeting.
 
 ## Working Remotely
 
-With the exception of partners that need to be on site to support learners, we are a remote team. There is no location requirement where a partner must do their work.
+With the exception of partners that need to be on site, we are a remote team. There is no location requirement where a partner must do their work.
 
 All weekly tactical meetings are held remotely via Google Hangouts. We agree to show up on time and ready for these meetings.
 
@@ -22,11 +22,8 @@ These meetings will be scheduled ahead of time by the Secretary and all particip
 
 We use all-remote meetings because it is smoother to have every participant logged into a video conference than to have one group in person with the rest remote.
 
-In order to maximize working productivity and quality of life, partners can expense the cost of a monthly coworking space membership \(flexible or dedicated desk\), if they prefer not to work from home.
 
-The amount of reimbursement may vary by city, but should align to typical membership costs for a partner's location \(use WeWork or Impact Hub's location-based rates as a guideline: [https:\/\/www.wework.com\/locations](https://www.wework.com/locations) \/ [http:\/\/www.impacthub.net\/where-are-impact-hubs\/](http://www.impacthub.net/where-are-impact-hubs/)\)
-
-## What Full-Time \/ Flex-Time Means
+## What Full-Time / Flex-Time Means
 
 > "If you want to go fast, go alone. If you want to go far, go together"
 
@@ -34,7 +31,7 @@ Full-time can mean very different things for different people and organizations.
 
 We recognize that for the company to achieve its goals, we need to be productive, efficient, and resilient. It is easier to fill time with any work than to prioritize work. One hour of focused labor on a core competency is better than two hours of distracted work that is misaligned with our current strategies.
 
-We agree to work as much as we can and feel inspired to do, but not so much that it erodes our ability to maintain pace, or depletes our lives outside of work. As a general number to aim for, we use 40 \(full\) hours a week.
+We agree to work as much as we can and feel inspired to do, but not so much that it erodes our ability to maintain pace, or depletes our lives outside of work. As a general number to aim for, we use 35 (full) hours a week.
 
 Managing time is a skill; especially when working remotely, it is difficult to not work too much or too little. We have to hold ourselves and each other accountable to find our balance.
 
@@ -42,7 +39,7 @@ We seek to avoid the Cult of Productivity anti-pattern. Too often, organizations
 
 Productivity means different things to different roles. For example, if your job involves dealing with outside parties, you will need to overlap your work hours to the hours of the outside world \(i.e. 9am to 5pm\).  Not doing this makes you less productive, and does NOT match the spirit of this flexibibility.
 
-**tldr: Work when you're most productive. Work smart on stuff that energizes you rather than depletes you. Aim for roughly 40 hours a week.**
+**tldr: Work when you're most productive. Work smart on stuff that energizes you rather than depletes you. Aim for roughly 35 hours a week.**
 
 ## Scheduling and Availability
 
