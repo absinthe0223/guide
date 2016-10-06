@@ -10,7 +10,7 @@ This repository contains all our agreements, policies, operating models, values 
 
 As a small company, we anticipate changes will be made to this guide in the future and reserve the right to amend, revise and/or withdraw parts of it.
 
-All feedback and suggestions \(especially in the form of pull requests\) are very appreciated. This is a work in progress we hope will get better with more time and more contributors.
+All feedback and suggestions (especially in the form of pull requests) are very appreciated. This is a work in progress we hope will get better with more time and more contributors.
 
 Each partner is responsible for reading, understanding, and complying with this guide. Our goal is to work together towards a work environment that is constructive and supports both personal and professional growth.
 
