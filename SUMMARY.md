@@ -24,7 +24,6 @@
        * [Legal Guide to Interviewing](Operating-Model/Hiring-Process/Legal-Guide-to-Interviewing.md)
        * [Guide for Pre-employment Inquiries](Operating-Model/Hiring-Process/Guide-for-Pre-employment-Inquiries.md)
        * [Sample Interview Questions](Operating-Model/Hiring-Process/Sample-Interview-Questions.md)
-   * [Onboarding](Operating-Model/Onboarding.md)
    * [By Department](Operating-Model/by-department.md)
        * [Engineering Operations](Operating-Model/engineering-operations.md)
 * [Employment Policies](Employment-Policies/README.md)
