@@ -1,4 +1,4 @@
-> “A true purpose always has ethical and moral content, which can be either implicit or explicit. It is a statement to which all members of the community can say with the wholeness of mind, body and spirit, ‘If we \(notice the plural\) could achieve that, then my \(notice the singular\) life would have meaning.’” ~ Dee Hock
+> “A true purpose always has ethical and moral content, which can be either implicit or explicit. It is a statement to which all members of the community can say with the wholeness of mind, body and spirit, ‘If we (notice the plural) could achieve that, then my (notice the singular) life would have meaning.’” ~ Dee Hock
 
 # Purpose, Mission, and Vision
 
@@ -11,7 +11,7 @@ To progress marketing science.
 The mission of OMAlab is to provide businesses with the ability to reach their prospects cost effectively with the right message.
 
 * Today, businesses spend a TON of money on paid ads that don't reach people actually interested in their products or services. This wasted ad spend is highly inefficient, and could be applied more efficiently. 
-* Ad networks have turned a blind eye to this problem, as it's not in their economic interests. Up to 50% of clicks are fraudulent, yet ad networks continue to make it harder to track and manage\/measure ad spend.
+* Ad networks have turned a blind eye to this problem, as it's not in their economic interests. Up to 50% of clicks are fraudulent, yet ad networks continue to make it harder to track and manage/measure ad spend.
 * Prospects have gotten more sophisticated, with "blindness" to things that aren't really meaningful and relevant RIGHT NOW to them. 
 
 We fulfill our purpose by helping businesses reach their ideal prospects with real, true value.
