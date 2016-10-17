@@ -18,7 +18,7 @@ You are not paid to do work. You are paid to COMPLETE work that moves the compan
 
 ### Up to 50% of your compensation will be deferred and payable on major deliverables.
 
-You are paid to do work regularly and recurring. As such, the usual and customary procedure is that there will also be a bonus component to your compensation. This is to ensure you understand that while we value you "working", we value more you COMPLETING more than working. This will be 30% of your total compensation. So, get things done. 
+You are paid to do work regularly and recurring. As such, the usual and customary procedure is that there will also be a bonus component to your compensation. This is to ensure you understand that while we value you "working", we value more you COMPLETING more than working. This will be 20-50% of your total compensation. So, get things done. 
 
 You will bill 100% of your time. Our accounting department will "defer" payment of a percentage fo this compensation to reflect this deferred compensation component. When you complete the major deliverable, your deferred compensation will be paid on your next payment (and your balance will revert to 0, starting to accure for the next deliverable).  
 
