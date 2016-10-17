@@ -1,6 +1,6 @@
 # Holacracy-Asana Key
 
-This key is a guide to how Holacracy and GTD concepts are translated and used in Asana.  All LG partners will be using the same methodology.
+This key is a guide to how Holacracy and GTD concepts are translated and used in Asana.  All OMAlab partners will be using the same methodology.
 
 ### Holacracy
 
