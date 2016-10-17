@@ -94,9 +94,11 @@ The logic for this is simple: if you give us manual time, then we have to go bac
 
 Once we establish trust, we can enable  SOME manual billing. But, you must get approval for manual time before starting to log manual time. If you "have a problem" and "can't bill because of a problem" and need manual time, that will not be acceptable without showing us the logs of your request for help from UpWork technical support, and UpWork or similar's technical support stating that they cannot fix the problem.
 
-If we transition away from UpWork to a direct relationship, we will wire transfer funds to you. It's expected that we will remove any wire transfer fees from the amount we pay you, and you will continue to get paid the same amount. This is in your benefits, as there is a fee of up to 10% we are paying UpWork. The wire transfer fee will likely be less than this. 
+### If we are paying you directly, we will remove wire transfer fees from your payment.
 
-Understand that we will require to a modification to our schedule \(we won't pay you weekly\), to confirm with the payment schedules of other payments.  
+It's expected that we will remove any wire transfer fees from the amount we pay you. This is to your benefit, as there is a fee of up to 10% we are paying UpWork. The wire transfer fee will likely be less than this. 
+
+Understand that we will require to a modification to our schedule \(we won't pay you weekly\), to confirm with the payment schedules of other payments. This can be either bi-monthly (with 2x the wire fees), or monthly. Your choice.  
 
 It is at the company's discretion when any of these changes to your billing relationship happen.  
 
