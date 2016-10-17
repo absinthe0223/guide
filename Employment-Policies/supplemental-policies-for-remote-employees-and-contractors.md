@@ -14,9 +14,19 @@ To be clear, if we find you have abused this policy by taking other signficant w
 
 ### You must COMPLETE work, on time, to get your full compensation.
 
-You are paid to do work regularly and recurring. But, unless there is an exception, there will also be a bonus component to your compensation when you get work done requested of you. This is to ensure you understand that while we value you "working", we value more you COMPLETING more than working. This will be 10-50% of your total compensation. So, get things done. 
+You are not paid to do work. You are paid to COMPLETE work that moves the company to our goals. If you are working, but not completing, expect that some of your work payments might be deferred until your activities are completed.  If you continue to miss deadlines and otherwise deliver incomplete or unfinished work, the company has the right to reduce your payments to reflect poor work quality and deliveries. And, to be clear, continued missing of deadlines and delivery of poor quality work will result in termination--including reduction of your final paycheck and non-payment of deferred compensation.  
 
-If you do not have this bonus component, and you choose to leave the company with unfinished work, and you do so without a graceful transition period as defined in your offer letter, expect that your last paycheck will be garnished to reflect the uncompleted work and lack of transition. 
+### Up to 50% of your compensation will be deferred and payable on major deliverables.
+
+You are paid to do work regularly and recurring. As such, the usual and customary procedure is that there will also be a bonus component to your compensation. This is to ensure you understand that while we value you "working", we value more you COMPLETING more than working. This will be 30% of your total compensation. So, get things done. 
+
+You will bill 100% of your time. Our accounting department will "defer" payment of a percentage fo this compensation to reflect this deferred compensation component. When you complete the major deliverable, your deferred compensation will be paid on your next payment (and your balance will revert to 0, starting to accure for the next deliverable).  
+
+This is to keep you focused onm your main goal/initiative, and to reward completion of activities. 
+
+### If you leave the company with unfinished work, your last paycheck will be garished for this work.  
+
+Transitions happen. However, if you choose to transition without a graceful transition period (in your offer letter, or 1 month), expect that your last paycheck will be reduced to reflect the uncompleted work and lack of transition costs to the company. 
 
 ### If you miss a deliverable, even if you don't bill for the time, you acknowledge there is STILL a cost to the company. 
 
