@@ -24,7 +24,7 @@ You will bill 100% of your time. Our accounting department will "defer" payment 
 
 This is to keep you focused onm your main goal/initiative, and to reward completion of activities. 
 
-### If you leave the company with unfinished work, your last paycheck will be garished for this work.  
+### If you leave the company with unfinished work, your last paycheck will be reduced for incompleted work.  
 
 Transitions happen. However, if you choose to transition without a graceful transition period (in your offer letter, or 1 month), expect that your last paycheck will be reduced to reflect the uncompleted work and lack of transition costs to the company. 
 
@@ -59,6 +59,14 @@ And, failure to comply with this policy is grounds for termination.
 ### You must give your manager a status at least once per day.
 
 You will update your manager daily on your working activities and how much time they took, estimated completion, and what you are scheduled to work on next. This can be delivered via email or Slack communication. 
+
+### You will maintain a way to reach you outside of through Slack or email with a mobile phone number capable of working in your native country and receiving SMS and phone calls.
+
+As a person working with us, there will be times occassionally when someone has a question after hours. You must maintain a phone and provide a phone number for us to use to reach you via both SMS and phone calls.  Our primary communications are through Slack. However, when Slack fails, you should be reachable via this alternative method.  
+
+Secondarily, by maintaining this, you can reach us and provide a status update, even if you computer is not immedately available (for example, a family emergency that will cause you to miss a deadline).  
+
+Not providing or maintaining a properly working phone, as well as providing us access, is grounds for termination.
 
 ### You will check in your work/code daily into our systems, or when changing locations.
 
