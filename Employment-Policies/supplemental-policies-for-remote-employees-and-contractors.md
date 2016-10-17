@@ -12,15 +12,25 @@ We manage you to 7 hours per day of productive work, because simply put it is no
 
 To be clear, if we find you have abused this policy by taking other signficant work, you will be immediately terminated, and your final invoice will not be paid. 
 
-### You must COMPLETE work to get your full compensation.
+### You must COMPLETE work, on time, to get your full compensation.
 
 You are paid to do work regularly and recurring. But, unless there is an exception, there will also be a bonus component to your compensation when you get work done requested of you. This is to ensure you understand that while we value you "working", we value more you COMPLETING more than working. This will be 10-50% of your total compensation. So, get things done. 
 
 If you do not have this bonus component, and you choose to leave the company with unfinished work, and you do so without a graceful transition period as defined in your offer letter, expect that your last paycheck will be garnished to reflect the uncompleted work and lack of transition. 
 
+### If you miss a deliverable, even if you don't bill for the time, you acknowledge there is STILL a cost to the company. 
+
+When you have a task, commited on a particular date, and you do not deliver, it affects everyone related to your work--not just you. There are other substantial expenses that are incurred, promises made to clients/customers and other third parties based on your efforts, and frankly the promise made (by your deliverable commitment) made to other members of your team. 
+
+When you do not deliver, you cause us to lose calendar time. This causes the company to be less productive, and our costs and expenses to rise. 
+
+It is your reponsibility to inform your manager and other stakeholders when you will miss a deliverable as soon as is humanly possible. In that notification, you must provide a revised estimate of the delivery date.  
+
+Not doing this lets down the team, costs the company money, and is grounds for termination if not done. 
+
 ### You will only work on items that have been assigned to you, unless otherwise instructed.
 
-You are not to "run up" your hours working on items that, while need to be done, haven't been expressly assigned to you. It's a common problem that we have, where a contractor ore hourly employee will run up their hours, continuing to charge for work that is "filler" work, and doing it slowly. This is totally unacceptable. 
+You are not to "run up" your hours working on items that, while need to be done, haven't been expressly assigned to you. It's a common problem, a contractor or hourly employee will run up their hours doing work that isn't the priority (i.e. easy work), continuing to charge for work that is "filler" work, or work extra slowly. This is totally unacceptable. 
 
 It is YOUR job to ensure that your manager understands what you are doing, when you will be done, and when you will be free to work on something else.  Having a next job assigned to you is NOT an excuse.  
 
@@ -40,9 +50,13 @@ And, failure to comply with this policy is grounds for termination.
 
 You will update your manager daily on your working activities and how much time they took, estimated completion, and what you are scheduled to work on next. This can be delivered via email or Slack communication. 
 
-### You will check in your work or code daily into our systems.
+### You will check in your work/code daily into our systems, or when changing locations.
 
-At the end of the day, you will check in your work. This means that you sill sync it to one of our repos \(as a developer\), or copy your working drafts up to your Google Drive or Dropbox. If we find you are regularly NOT copying your work to our servers, this is grounds for immediate termination, as it is a best practice. 
+At the end of the day, or when changing location, (any substantial stop in your work), you will check in your work. This means that you will sync it to one of our repos \(as a developer\), or copy your working drafts up to your Google Drive or Dropbox. If we find you are regularly NOT copying your work to our servers, this is grounds for immediate termination, as it is a best practice. 
+
+We do this for a number of reasons. 1) We both can review your code and see your progress.  2) If you or your laptop are compromised or stolen, you have your most recent code.  3) If your equipment has a problem, someone else can pick up your work.  
+
+If you have a failure and lose code specifically due to this circumstance, you will be terminated. 
 
 ### Your working hours will overlap substantially with the USA Eastern Time Zone working time.
 
@@ -58,7 +72,7 @@ Our company regularly uses Google Hangouts for video to have meetings, and creat
 
 If these problems regularly occur, is is grounds for immediate termination. 
 
-### Everyone gets sick or has personal issues. But, personal issues are not allowed as an excuse. 
+### Everyone gets sick and has personal issues. But, sickness/personal issues are not allowed as an excuse. 
 
 As a remote person/contractor, sometimes you get sick or have personal issues. That happens, and we do NOT judge you on this. 
 
@@ -86,9 +100,17 @@ Understand that we will require to a modification to our schedule \(we won't pay
 
 It is at the company's discretion when any of these changes to your billing relationship happen.  
 
-### If you billing is found to be in error \(times worked versus billed hours\), you will be terminated.
+### If you lose work through a computer fault, computer loss, accidential unrecoverable deletion, (essentially not following the rules above), you will be not be paid for the work. 
 
-It's unfortunately all too common that remote contractors fake load hours. If we EVER find you have done this, you will be immediately terminated. In addition, to the fullest extent of the power we have, we will ensure that any thing party service we use, such as UpWork, is aware of the situation.  
+There are rules in place, and the places and resuources available to you, to keep work from being lost. If your work is lost due to a personal issue, computing equipment failure, loss of power, or any other incident that loses work you are completing on our behalf, you will not be paid for this work. 
+
+From here, you have two options: All payments will stop to you until you either rebuild the lost code and deliver, or you will be terminated. 
+
+We have lost the calendar time that is assoicated with your mistake. There are other expenses that burn money every week, and cost money, even if you do not charge us time. There are people waiting on your work to perform their work, and you have made them less productive.  In general, you have let down and not honored your commitments to the company and team.  
+
+### If your billing is found to be in error \(times worked versus billed hours\), you will be terminated.
+
+It's unfortunately common that remote contractors fake or bill extra hours. If we EVER find you have done this, you will be immediately terminated. In addition, to the fullest extent of the power we have, we will ensure that any thing party service we use, such as UpWork, is aware of the situation.  
 
 If you need more work, ask for it. Don't fake your time. 
 
