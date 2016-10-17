@@ -86,7 +86,7 @@ The same rule applies to "medical emergencies", family situations, and other thi
 
 Before starting work, you will be sent materials that you are required to execute. You will not be paid without these documents being fully executed and received by the company. It is YOUR responsibility to ensure you have completed all these documents. 
 
-## If you are working on UpWork or similar service, you are expected to bill your hours live \(no manual work\). 
+### If you are working on UpWork or similar service, you are expected to bill your hours live \(no manual work\). 
 
 We require all UpWork-based partners to use screen recording to record their screenshots. This is to ensure that, as a remote, on demand contractor, we have a record/log of your actual time being billed to us. 
 
