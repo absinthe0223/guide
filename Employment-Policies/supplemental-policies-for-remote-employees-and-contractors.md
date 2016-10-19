@@ -134,9 +134,13 @@ From here, you have two options: All payments will stop to you until you either 
 
 We have lost the calendar time that is assoicated with your mistake. There are other expenses that burn money every week, and cost money, even if you do not charge us time. There are people waiting on your work to perform their work, and you have made them less productive.  In general, you have let down and not honored your commitments to the company and team.  
 
-### If your billing is found to be in error \(times worked versus billed hours\), you will be terminated.
+### If your billing is found to be in error \(times worked versus billed hours\), you will likely be terminated.
 
 It's unfortunately common that remote contractors fake or bill extra hours. If we EVER find you have done this, you will be immediately terminated. In addition, to the fullest extent of the power we have, we will ensure that any thing party service we use, such as UpWork, is aware of the situation.  
+
+If it can be proven that it is an accident, then we will correct the issue on the next payment. 
+
+If the situation happens more than one time, it is grounds for termination. 
 
 If you need more work, ask for it. Don't fake your time. 
 
