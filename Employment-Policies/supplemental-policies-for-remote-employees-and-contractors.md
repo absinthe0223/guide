@@ -54,7 +54,13 @@ In both cases, it is not acceptable to submit daily time tracking for billing th
 
 Ultimately, it is your responsibility to ensure your time tracking and billing shows the specific action and activities you worked on, submitted in a verifiable way. Without this, we cannot pay you for this work. 
 
-And, failure to comply with this policy is grounds for termination.  
+Failure to comply with this policy is grounds for immediate termination.
+
+### You must track your time using Hubstaff, with live screenshots, unless you are on UpWork or similar service. 
+
+If you are billing directly, or you are billing through a service like UpWork using manual hours, you are required to track your time using Hubstaff. This both makes your time accountable and trackable, and we can see exactly what you're working on.  
+
+Hours billed but not tracked in Hubstaff are subject to non-payment.  And, failure to regularly comply with this policy is grounds for termination.  
 
 ### You must give your manager a status at least once per day.
 
