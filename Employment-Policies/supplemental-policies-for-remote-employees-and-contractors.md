@@ -8,7 +8,7 @@ This means that you are expected to work that amount of time regularly and consi
 
 If you are billing more than 30 hours per week, you are expected to be a FULL time person. This means you don't work other jobs outside of OMAlab.  
 
-We manage you to 7 hours per day of productive work, because simply put it is not possible for a person to work 70 hours a week regularly and not burn out. So, given that we are expecting you to have a reasonable work schedule, this does NOT give you the right to add another 25 hours/week job on top of your work. It is expected you will rest and renew on other times\/days. 
+We manage you to 7 hours per day of productive work, because simply put it is not possible for a person to work 70 hours a week regularly and not burn out. So, given that we are expecting you to have a reasonable work schedule, this does NOT give you the right to add another 25 hours/week job on top of your work. It is expected you will rest and renew on other times/days. 
 
 To be clear, if we find you have abused this policy by taking other signficant work, you will be immediately terminated, and your final invoice will not be paid. 
 
