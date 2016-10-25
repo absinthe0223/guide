@@ -12,7 +12,7 @@ At OMAlab, we address and resolve conflicts with these principles at front of mi
 
 Most interpersonal tensions can be resolved by sharing and being heard. If, however, your tension is work-related, or it isn't just resolved by being heard, you still need to address it directly with the person you have tension with using a more formal process.
 
-Any formal conflict starts with a partner bringing a request directly to another partner. The request needs to be actionable, clear, present, and sufficient to resolve the conflict. Requests can be benign ("Please make a public commitment to our circle to arrive to meetings on time."), to more involved ("Please commit to engaging a professional coach that will help you with your writing style."), to the most extreme ("Please resign this particular role" or "Please resign from the Company").[^1]
+Any formal conflict starts with a partner bringing a request directly to another partner. The request needs to be actionable, clear, present, and sufficient to resolve the conflict. Requests can be benign ("Please make a public commitment to our circle to arrive at meetings on time."), to be more involved ("Please commit to engaging a professional coach that will help you with your writing style."), to the most extreme ("Please resign this particular role" or "Please resign from the Company").[^1]
 
 At all stages, the partner receiving the request can say Yes, No, or negotiate for a different outcome. If there's a "Yes" or another outcome that's sufficient to both, then the conflict is resolved. If there's a "No" then the initiating partner has the choice of either escalating the conflict to the next phase, or dropping it.
 
