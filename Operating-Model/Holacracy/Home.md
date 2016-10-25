@@ -1,4 +1,4 @@
-# Organization and Governance
+# Organization and Governance  (??? Ask Bo)
 
 The governance model of OMALAB is based on [Holacracy][holacracy]. The operational model is a hybrid system built on Holacracy's tactical methodology, David Allen's [Getting Things Done](http://gettingthingsdone.com/), and using our own rules and agreements to make this come together in Asana.  This section will provide you with all the information you need to navigate these systems.
 
