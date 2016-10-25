@@ -29,11 +29,11 @@ At all stages, the partner receiving the request can say Yes, No, or negotiate f
 
 ## Clearing Coach
 
-If you need coaching or support before clearing with someone, or before\/during engaging in a formal resolution process, reach out to the Clearing Coach and set up a coaching session. The Clearing Coach will support you in resolving the conflict directly, and hold you accountable to closing the loop.
+If you need coaching or support before clearing with someone, or before/during engaging in a formal resolution process, reach out to the Clearing Coach and set up a coaching session. The Clearing Coach will support you in resolving the conflict directly, and hold you accountable to closing the loop.
 
 ## Third Party
 
-Sometimes, a partner can sense a conflict between two people \(or is caught in a triangulation between them\). If that's the case, they can ask one \(or both\) parties to the perceived conflict whether or not there actually is one \(reality check\), and make a request that they address it and report back.
+Sometimes, a partner can sense a conflict between two people (or is caught in a triangulation between them). If that's the case, they can ask one (or both) parties to the perceived conflict whether or not there actually is one (reality check), and make a request that they address it and report back.
 
 ## Partners v.s. Non-Partners
 
