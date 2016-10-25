@@ -43,7 +43,7 @@ Productivity means different things to different roles. For example, if your job
 
 ## Scheduling and Availability
 
-We encourage partners to be available for communication (either in person or on Slack). Essentially, slack is "in the office." If you're not logged in on slack, then its assumed you are not working.
+We encourage partners to be available for communication (either in person or on Slack). Essentially, Slack is "in the office." If you're not logged in on Slack, then its assumed you are not working.
 
 Communication, as they say, is the key to every relationship. Working remotely makes synchronous communication a choice, not a requirement. While the benefits of being able to "go dark" and focus on a task without risk of distraction are great, we must also make time to be explicitly available to the team.
 
