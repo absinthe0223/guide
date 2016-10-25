@@ -2,9 +2,9 @@
 
 # Healthcare
 
-OMAlab\/Audienti prioritizes health benefits, wellness and education, so it’s important that we offer our partners good medical coverage.  
+OMAlab/Audienti prioritizes health benefits, wellness and education, so it’s important that we offer our partners good medical coverage.  
 
-Currently with the number of employees at less than 10 in the USA, OMAlab\/Audienti requires each employee to enroll for medical insurance individually. They will then submit the documents to accounting for reimbursement of expense. 
+Currently with the number of employees at less than 10 in the USA, OMAlab/Audienti requires each employee to enroll for medical insurance individually. They will then submit the documents to accounting for reimbursement of expense. 
 
 Audienti will pay up to 80% of you and your dependent’s health care coverage, up to $350\/month. 
 
