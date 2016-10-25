@@ -122,7 +122,7 @@ Once we establish trust, we can enable  SOME manual billing. But, you must get a
 
 It's expected that we will remove any wire transfer fees from the amount we pay you. This is to your benefit, as there is a fee of up to 10% we are paying UpWork. The wire transfer fee will likely be less than this. 
 
-Understand that we will require to a modification to our schedule \(we won't pay you weekly\), to confirm with the payment schedules of other payments. This can be either bi-monthly (with 2x the wire fees), or monthly. Your choice.  
+Understand that we will require a modification to our schedule (we won't pay you weekly), to confirm with the payment schedules of other payments. This can be either bi-monthly (with 2x the wire fees), or monthly. Your choice.  
 
 It is at the company's discretion when any of these changes to your billing relationship happen.  
 
@@ -134,9 +134,9 @@ From here, you have two options: All payments will stop to you until you either 
 
 We have lost the calendar time that is assoicated with your mistake. There are other expenses that burn money every week, and cost money, even if you do not charge us time. There are people waiting on your work to perform their work, and you have made them less productive.  In general, you have let down and not honored your commitments to the company and team.  
 
-### If your billing is found to be in error \(times worked versus billed hours\), you will likely be terminated.
+### If your billing is found to be in error (times worked versus billed hours), you will likely be terminated.
 
-It's unfortunately common that remote contractors fake or bill extra hours. If we EVER find you have done this, you will be immediately terminated. In addition, to the fullest extent of the power we have, we will ensure that any thing party service we use, such as UpWork, is aware of the situation.  
+It's unfortunately common that remote contractors fake or bill extra hours. If we EVER find you have done this, you will be immediately terminated. In addition, to the fullest extent of the power we have, we will ensure that any third-party service we use, such as UpWork, is aware of the situation.  
 
 If it can be proven that it is an accident, then we will correct the issue on the next payment. 
 
