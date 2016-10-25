@@ -2,7 +2,7 @@
 
 # Purpose, Mission, and Vision
 
-Our Purpose is to help our customer's grow their businesses by finding, engaging, and ultimately converting prospects into leads that become customers of their products and services. And, to help their customers find the right things for themselves that make their lives better.  Without it being about who can buy market share.
+Our Purpose is to help our customer's grow their businesses by finding, engaging, and ultimately converting prospects into leads that become customers of their products and services. And, to help their customers find the right things for themselves that make their lives better without it being about who can buy market share.
 
 To progress marketing science.
 
@@ -24,7 +24,7 @@ We take responsibility with our customers to find the right prospect, with the r
 
 ## Vision
 
-It is 2020. Our software listens to to the chatter on the internet.  Automatically, it configures itself to target the right prospects with offers that match their particular interests. The system configures campaigns, tracks offers, and optimizes content to convert faster and better than humans.
+It is 2020. Our software listens to the chatter on the Internet.  Automatically, it configures itself to target the right prospects with offers that match their particular interests. The system configures campaigns, tracks offers, and optimizes content to convert faster and better than humans.
 
 The marketing teams at our customers work on building great offers for their prospects. Our system turns it into landing page, sets up ads and offers, does all the promotion, and drives traffic & leads to the business.
 
