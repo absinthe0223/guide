@@ -102,7 +102,7 @@ Actionable items items include meetings and appointments you’re committed to a
 | Projects      | Someday/maybe      |
 | Next Actions | File/Reference      |
 
-## The Three Fold Nature of Work
+## The Three Fold Nature of Work  (??? Ask Bo))
  When it comes to work, consider that that there are only three things that you could possibly be doing:
  - **Doing Unplanned Work** — This typically comes in the form of interruptions. You respond to a phone call or to an e-mail that arrives in your inbox. Sometimes responding to interruptions is completely appropriate and other times these interruptions inappropriately draw your attention away from what’s most important.
  - **Doing Predefined Work** — You might also be doing work based on planning — specifically work that resulted from processing the “stuff” that came into your life.
