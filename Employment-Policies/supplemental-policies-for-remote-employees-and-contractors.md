@@ -30,11 +30,11 @@ Transitions happen. However, if you choose to transition without a graceful tran
 
 ### If you miss a deliverable, even if you don't bill for the time, you acknowledge there is STILL a cost to the company. 
 
-When you have a task, commited on a particular date, and you do not deliver, it affects everyone related to your work--not just you. There are other substantial expenses that are incurred, promises made to clients/customers and other third parties based on your efforts, and frankly the promise made (by your deliverable commitment) made to other members of your team. 
+When you have a task, committed on a particular date, and you do not deliver, it affects everyone related to your work--not just you. There are other substantial expenses that are incurred, promises made to clients/customers and other third parties based on your efforts, and frankly the promise made (by your deliverable commitment) made to other members of your team. 
 
 When you do not deliver, you cause us to lose calendar time. This causes the company to be less productive, and our costs and expenses to rise. 
 
-It is your reponsibility to inform your manager and other stakeholders when you will miss a deliverable as soon as is humanly possible. In that notification, you must provide a revised estimate of the delivery date.  
+It is your responsibility to inform your manager and other stakeholders when you will miss a deliverable as soon as is humanly possible. In that notification, you must provide a revised estimate of the delivery date.  
 
 Not doing this lets down the team, costs the company money, and is grounds for termination if not done. 
 
@@ -76,7 +76,7 @@ Not providing or maintaining a properly working phone, as well as providing us a
 
 ### You will check in your work/code daily into our systems, or when changing locations.
 
-At the end of the day, or when changing location, (any substantial stop in your work), you will check in your work. This means that you will sync it to one of our repos \(as a developer\), or copy your working drafts up to your Google Drive or Dropbox. If we find you are regularly NOT copying your work to our servers, this is grounds for immediate termination, as it is a best practice. 
+At the end of the day, or when changing location, (any substantial stop in your work), you will check in your work. This means that you will sync it to one of our repos (as a developer), or copy your working drafts up to your Google Drive or Dropbox. If we find you are regularly NOT copying your work to our servers, this is grounds for immediate termination, as it is a best practice. 
 
 We do this for a number of reasons. 1) We both can review your code and see your progress.  2) If you or your laptop are compromised or stolen, you have your most recent code.  3) If your equipment has a problem, someone else can pick up your work.  
 
@@ -110,7 +110,7 @@ The same rule applies to "medical emergencies", family situations, and other thi
 
 Before starting work, you will be sent materials that you are required to execute. You will not be paid without these documents being fully executed and received by the company. It is YOUR responsibility to ensure you have completed all these documents. 
 
-### If you are working on UpWork or similar service, you are expected to bill your hours live \(no manual work\). 
+### If you are working on UpWork or similar service, you are expected to bill your hours live (no manual work). 
 
 We require all UpWork-based partners to use screen recording to record their screenshots. This is to ensure that, as a remote, on demand contractor, we have a record/log of your actual time being billed to us. 
 
