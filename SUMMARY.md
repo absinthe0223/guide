@@ -38,6 +38,5 @@
    * [Health Care](Benefits-and-Perks/Healthcare-and-Disability-Insurance.md)
    * [Vacation, Holiday and Paid Time Off \(PTO\) Policy](Benefits-and-Perks/Time-Off.md)
    * [Holiday List](Benefits-and-Perks/Holiday-List.md)
-* [Contributing](CONTRIBUTING.md)
 * [Acknowledgements](Acknowledgements.md)
 
