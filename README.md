@@ -6,7 +6,7 @@ Welcome to OMALab!
 
 At OMALab we are working to build a purpose driven organization. That’s an easy thing to want and say, but it’s difficult to practice. It takes active effort to articulate our guiding principles and values, and to express them day to day.
 
-This repository contains all our agreements, policies, operating models, values and guiding principles. It is meant to be living and dynamic support for working how we work. It’s not perfect, but we think it’s an exciting place to begin.
+This repository contains all our agreements, policies, operating models, values and guiding principles. It is meant to be a living and dynamic support for how we work. It’s not perfect, but we think it’s an exciting place to begin.
 
 As a small company, we anticipate changes will be made to this guide in the future and reserve the right to amend, revise and/or withdraw parts of it.
 
