@@ -81,7 +81,7 @@ The following are examples of the kinds of information which would likely be kep
 
 Highly personal information about a partner, including but not limited to the characteristics listed under our [Equal Opportunity Employment](../Employment-Policies/Equal-Opportunity-Employment.md) policy, is considered private unless the concerned partner explicitly declares otherwise.
 
-For example, a partner's religious affiliation or sexual orientation are considered private to them and to those with whom they choose to share that information. On no occasion should that information be made transparent or shared without their express permission.
+For example, a partner's religious affiliation or sexual orientation are considered private to them and to those with whom they choose to share that information. On no occasion should that information be made transparent or shared without their expressed permission.
 
 ### Partner-to-Partner Feedback
 
