@@ -40,7 +40,7 @@ It is in their interest. Incumbents have a vested interest in maintaining the st
 
 ### We are not them. We are not the incumbent. We are the rebel, the upstart.
 
-At OMA, we are NOT the incumbent. We are not the people that have it all in our pocket, clawing to keep our stuff. We are the rebel, the upstart. We are the people that, through hard work, ingenuity, tenacity, and luck, make thing better.
+At OMA, we are NOT the incumbent. We are not the people that have it all in our pocket, clawing to keep our stuff. We are the rebel, the upstart. We are the people that, through hard work, ingenuity, tenacity, and luck, make things better.
 
 ## 
 
