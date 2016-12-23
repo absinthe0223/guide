@@ -27,16 +27,11 @@ To grow, we focus on two things. First, we build "great" products. Second, we ag
   * [Specific Roles](Holacracy/Holacracy-Specific-Roles.md)
   * [Terms and Definitions](Holacracy/Holacracy-Terms-and-Definitions.md)
   * [Finer Points](Holacracy/Finer-Points-of-Holacracy.md)
-
+  * [Holacracy-Asana Key](Holacracy/holacracry-asana-key.md)
 * [Getting Things Done](GTD/README.md)
   * [Daily, Weekly, Monthly, and Annual Reviews](GTD/Daily-weekly-monthly-annual-reviews.md)
   * [GTD-Asana Key](GTD/GTD-Asana-Key.md)
-
 * [Transparency](Transparency.md)
 * [Language](Language.md)
-
 * [Budgeting](Budgeting.md)
-* [Onboarding](Onboarding.md)
-
-
 
