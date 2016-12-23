@@ -21,7 +21,7 @@ eg. Updating website with latest news or Interviewing students.
 ## Circle
 A Circle is a role that's grown larger and needs to break itself down into sub-Roles, so multiple people can work together to express the Circle’s overall Purpose and Accountabilities.  So circles act as roles within their parent circles.
 
-eg. Admissios could be a circle at Learners Guild, with different roles inside of it, but in its parent circle, the GCC, Admissions acts as a role with accountabilities, domain, and purpose.  And is represented by its Lead Link.
+eg. Admissions could be a circle at OMAlab with different roles inside of it, but in its parent circle, the GCC, Admissions acts as a role with accountabilities, domain, and purpose.  And is represented by its Lead Link.
 
 ## Domain
 Domain basically says that an area cannot be edited or changed by any role/circle that doesn't have domain unless permission is first given by the domain holder.
@@ -32,7 +32,7 @@ eg. Our Facebook Group
 
 
 ## Partner
-Partner is the term we use for anyone who's working at Learners Guild.  A partner does not have any "titles" or "positions". They are free to energize the roles that interest them (with the agreement of the Lead Link of course) and also to resign any roles that they are not thriving in.
+Partner is the term we use for anyone who's working at OMAlab.  A partner does not have any "titles" or "positions". They are free to energize the roles that interest them (with the agreement of the Lead Link of course) and also to resign any roles that they are not thriving in.
 
 It is important to differentiate between a Partner and a Role. Generally partners are not supposed to bring up tensions in meetings or object to proposals as a Partner, rather they need to know which Role they are speaking from.
 
