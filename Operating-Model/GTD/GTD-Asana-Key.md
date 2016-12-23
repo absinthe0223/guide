@@ -1,6 +1,6 @@
 #GTD-Asana Key
 
-This key is a guide to how GTD concepts are translated and used in Asana. All LG partners will be using the same methodology.
+This key is a guide to how GTD concepts are translated and used in Asana. All OMAlab partners will be using the same methodology.
 
 **Context == Tag**
 <br>Use tags for the contexts, i.e. the type of task or the context in which you need to get it done.
